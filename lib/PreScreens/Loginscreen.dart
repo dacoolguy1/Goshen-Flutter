@@ -162,7 +162,7 @@ class _nameState extends State<LoginScreen> {
                       ),
                     ),
                     SizedBox(
-                      height: 120,
+                      height: 12,
                     ),
                     Center(
                       child: Text(
@@ -170,12 +170,9 @@ class _nameState extends State<LoginScreen> {
                         style: TextStyle(color: Color(0xffA2A0A8)),
                       ),
                     ),
-                    SizedBox(
-                      height: 30,
-                    ),
                     Image.asset(
                       'images/Buttons.png',
-                      height: 44,
+                      height: 34,
                     ),
                   ],
                 ),
